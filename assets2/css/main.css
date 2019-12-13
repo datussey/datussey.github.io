@@ -337,7 +337,7 @@
 		button.active,
 		.button.active {
 			color: #FFF;
-			background: #22313F;
+			background: #32145e;
 		}
 
 			input[type="submit"].active:hover,
@@ -1394,7 +1394,7 @@
 /* Menu */
 
 	#nav {
-		background: #0d1217;
+		background: #32145e;
 		z-index: 10002;
 		position: relative;
 		width: 4em;
