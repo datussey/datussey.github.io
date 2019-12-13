@@ -316,7 +316,7 @@
 		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
-		background: #19B5FE;
+		background: #600ddb;
 		color: #FFF;
 		border-radius: 4px;
 		border: 0;
@@ -355,7 +355,7 @@
 		button:hover,
 		.button:hover {
 			color: #FFF;
-			background: #019be3;
+			background: #32145e;
 		}
 
 		input[type="submit"].alt,
