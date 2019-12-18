@@ -1749,7 +1749,7 @@
 				width: 100%;
 				z-index: 10001;
 				color: #fff;
-				background: url("images/tinytile.jpg");
+				background: url("images/pbord.jpg");
 				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
@@ -1822,7 +1822,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: url("images/tinytile.jpg");
+				background: url("images/bg04.png");
 				box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.25), inset -2px 0px 25px 0px rgba(0, 0, 0, 0.5);
 				text-shadow: -1px -1px 1px black;
 			}
