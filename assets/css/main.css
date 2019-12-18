@@ -1179,7 +1179,7 @@
 
 	.bordered-feature-image {
 		display: block;
-		background: #fff url("images/bg04.png");
+		background: #fff url("images/tinytile.jpg");
 		padding: 10px;
 		box-shadow: 3px 3px 3px 1px rgba(0, 0, 0, 0.15);
 		margin: 0 0 1.5em 0;
@@ -1293,7 +1293,7 @@
 			}
 
 			#content-wrapper {
-				background: #f7f7f7 url("images/bg04.png");
+				background: #f7f7f7 url("images/tinytile.jpg");
 				border-top: solid 1px #fff;
 				padding: 45px 0 45px 0;
 			}
@@ -1578,7 +1578,7 @@
 			}
 
 			#content-wrapper {
-				background: #f7f7f7 url("images/bg04.png");
+				background: #f7f7f7 url("images/tinytile.jpg");
 				padding: 5px;
 			}
 
@@ -1749,7 +1749,7 @@
 				width: 100%;
 				z-index: 10001;
 				color: #fff;
-				background: url("images/bg04.jpg");
+				background: url("images/tinytile.jpg");
 				box-shadow: inset 0px -20px 70px 0px rgba(200, 220, 245, 0.1), inset 0px -1px 0px 0px rgba(255, 255, 255, 0.1), 0px 1px 7px 0px rgba(0, 0, 0, 0.6);
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
 			}
@@ -1822,7 +1822,7 @@
 				top: 0;
 				width: 275px;
 				z-index: 10002;
-				background: url("images/bg04.jpg");
+				background: url("images/tinytile.jpg");
 				box-shadow: inset -1px 0px 0px 0px rgba(255, 255, 255, 0.25), inset -2px 0px 25px 0px rgba(0, 0, 0, 0.5);
 				text-shadow: -1px -1px 1px black;
 			}
