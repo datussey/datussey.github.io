@@ -1290,7 +1290,8 @@
 				border-bottom: solid 1px #272e31;
 				padding: 45px 0 45px 0;
 				text-shadow: -1px -1px 1px rgba(0, 0, 0, 0.75);
-				 margin: 0 auto;
+				  text-align: center;
+				margin: 0 auto;
 			}
 
 			#content-wrapper {
